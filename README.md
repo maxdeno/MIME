@@ -1,3 +1,4 @@
+
 # MIME
 A Multipurpose Internet Mail Extension is an email standard that allows email to include texts, audio, video and attachments.
 Without MIME, email communication is only limited to texts.
@@ -40,3 +41,4 @@ The smtp_client code remains the same.
 
 
 ![Image](https://github.com/user-attachments/assets/0acf3462-9dcd-4bc1-b894-6020d9cba282)
+
